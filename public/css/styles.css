@@ -22,12 +22,20 @@ a {
 }
 
 .auto_play {
-    border-radius: 10%;
+    font-family: monospace;
+    border-radius: 50%;
+    font-size: 1rem;
+    border: 1px solid;
+    padding: 0;
     padding-left: 12px;
     padding-right: 12px;
-    background-color: #FFBD9B9f;
+    background-color: #5E8B7E8f;
     margin-left: 0.5rem;
     margin-right: 0.5rem;
+}
+
+.auto_play:hover {
+    background-color: #0869728f;
 }
 
 .big_head {
