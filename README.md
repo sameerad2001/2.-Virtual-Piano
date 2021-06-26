@@ -1,6 +1,8 @@
 # Virtual Piano
 
-A Virtual Piano which can **play by itself**. It can take a sequence of **keys** and their respective **time delays(ms)** and play the specified music.
+A Virtual Piano which **plays by itself**. It can take a sequence of **keys** and their respective **time delays(ms)** and play the specified music.
+
+Please Note that this website is only optimized for large screens (PC/Laptop)
 
 <img src = "https://github.com/sameerad2001/2.-Virtual-Piano/blob/master/public/img/piano%20v3%202.gif">
 
