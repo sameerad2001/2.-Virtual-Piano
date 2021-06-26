@@ -2,7 +2,7 @@
 
 A Virtual Piano which can **play by itself**. It can take a sequence of **keys** and their respective **time delays(ms)** and play the specified music.
 
-<img src = "https://github.com/sameerad2001/2.-Virtual-Piano/blob/master/public/img/piano%20v3%201.gif">
+<img src = "https://github.com/sameerad2001/2.-Virtual-Piano/blob/master/public/img/piano%20v3%202.gif">
 
 <hr />
 
