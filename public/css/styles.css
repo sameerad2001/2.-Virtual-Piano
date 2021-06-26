@@ -1,3 +1,12 @@
+/* 
+Sameer Ahmed 
+Fell free to contact me for any queries
+
+Github : https://github.com/sameerad2001/PersonalWebsiteDemo/edit/master/README.md
+Linkedin : https://www.linkedin.com/in/sameer-ahmed-0b7902176/
+Email : Sameerad2001@gmail.com
+*/
+
 body {
     background-color: #E3FDFD;
     text-align: center;
@@ -10,6 +19,15 @@ a {
 ::selection {
     background-color: #FFBD9B;
     color: #CAF7E3;
+}
+
+.auto_play {
+    border-radius: 10%;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: #FFBD9B9f;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
 }
 
 .big_head {
@@ -91,8 +109,8 @@ a {
     /* width: 65rem; */
     width: 80%;
     margin: auto;
-    margin-top: 5rem;
-    margin-bottom: 6rem;
+    margin-top: 1.5rem;
+    margin-bottom: 5rem;
 }
 
 @media(max-width: 1400px) {
@@ -157,6 +175,12 @@ a {
         margin-top: 5rem;
         margin-bottom: 6rem;
     }
+}
+
+#auto_play_instruction {
+    color: #5E8B7E;
+    font-family: monospace;
+    font-size: 1rem;
 }
 
 #footer_text {
